@@ -1,2 +1,2 @@
 # jd2_work
-Repository for class work
+Repository for IT-academy Java enterprise development class work
